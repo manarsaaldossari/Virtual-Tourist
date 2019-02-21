@@ -38,9 +38,12 @@ To install, download the project and open the Virtual- **Tourist.xcworkspace** T
 
 Fist, make sure you have cocoapods installed
 `'gem install cocoapods'`
+
 Then
+
 `'cd /whatever/directory/theproject/isin/Virtual-Tourist'`
 run this to install the dependencies
+
  `'pod install'` 
 
 
